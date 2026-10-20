@@ -54,6 +54,4 @@ The scanner was tested in an authorized virtual lab using Kali Linux and Ubuntu 
 
 This tool is intended for learning, authorized security testing, and lab use. Only scan systems and networks for which you have explicit authorization.
 
-## Status
 
-**Project 1 — Network Port Scanner: Complete**
